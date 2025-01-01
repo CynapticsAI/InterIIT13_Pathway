@@ -1,0 +1,602 @@
+[
+    {
+        "question": "Consider the Strategic Alliance Agreement between Lion Biotechnologies, Inc. and The University of Texas M. D. Anderson Cancer Center for Cancer Research; What is the governing law for this contract?",
+        "context": "This Agreement shall be governed by and interpreted in accordance with the laws of the State of Texas, United States of America, without giving effect to any conflict of laws provisions.",
+        "file_name": "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+        "answer": "The governing law for this contract is the laws of the State of Texas, United States of America, without giving effect to any conflict of laws provisions."
+    },
+    {
+        "question": "Consider the Collaboration Agreement between F. Hoffmann-La Roche Ltd, Hoffmann-La Roche Inc., and Foundation Medicine, Inc. for Genomic Testing Platforms; Is there a most favored nation clause in this contract?",
+        "context": "FMI agrees that the pricing terms for Products and Services provided by FMI to Roche herein, and services provided under the Molecular Information Platform Program, are, and will be, at least as favorable as the pricing terms granted by FMI to any existing customer or collaborator for such (or substantially similar) products or services. If FMI enters into any subsequent agreement with another customer or collaborator which provides for pricing terms for substantially the same product or services at substantially the same (or a lesser) scale, which pricing terms are more favorable than those contained herein, then FMI shall notify Roche and Roche will have the right to modify this agreement to provide Roche with those more favorable pricing terms. [\u2026***\u2026].",
+        "file_name": "FOUNDATIONMEDICINE,INC_02_02_2015-EX-10.2-Collaboration Agreement.txt",
+        "answer": "Yes, there is a most favored nation clause in this contract. The context specifies that Foundation Medicine, Inc. (FMI) agrees to provide Roche with pricing terms that are at least as favorable as those granted to any other customer or collaborator for similar products or services. If FMI enters into a subsequent agreement with another customer with more favorable terms, Roche has the right to modify the agreement to match those terms."
+    },
+    {
+        "question": "Consider the Consulting Agreement between Gunston Consulting, LLC and Medalist Diversified REIT, Inc.; What happens in the event of a change of control of one of the parties in this contract?",
+        "context": "In the event of a 'Change of Control' of Company, then if CONSULTANT's services are terminated without cause at any time within a twelve (12) month period following such Change of Control, CONSULTANT shall receive a termination fee equal to twelve (12) months compensation hereunder at the then current monthly rate, including any stock compensation.",
+        "file_name": "MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.txt",
+        "answer": "In the event of a change of control of Medalist Diversified REIT, Inc. (the Company), if Gunston Consulting, LLC's services are terminated without cause within twelve months following the change of control, Gunston Consulting, LLC will receive a termination fee equivalent to twelve months of compensation at the then-current monthly rate, including any stock compensation."
+    },
+    {
+        "question": "Consider the Sponsorship Agreement between Excite, Inc. and N2K Inc. for Exclusive Retail Music Store Sponsorship; What licenses are granted under this contract?",
+        "context": "Subject to the terms and conditions of this                   Agreement, Sponsor hereby grants to Excite a royalty-free,                   non-exclusive, worldwide license to use, reproduce,                   distribute, transmit and publicly display the Content in                   accordance with this Agreement and to sub-license the Content                   to Excite's wholly-owned subsidiaries or to joint ventures in                   which Excite participates for the sole purpose of using,                   reproducing, distributing, transmitting and publicly                   displaying the Content in accordance with this Agreement",
+        "file_name": "N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+        "answer": "The contract grants Excite a royalty-free, non-exclusive, worldwide license to use, reproduce, distribute, transmit, and publicly display the Content provided by the Sponsor. Excite is also allowed to sublicense the Content to its wholly-owned subsidiaries or joint ventures for the same purposes."
+    },
+    {
+        "question": "Consider the Services and Hosting Agreement between VITALIBIS INC and VOTOCAST, Inc.; Is there a cap on liability under this contract?",
+        "context": "The sole remedy for any breach of Section 6.2 (e) shall be the provisions in Section 7.2.",
+        "file_name": "VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.txt",
+        "answer": "The context does not specify a cap on liability directly but mentions that the sole remedy for a breach of Section 6.2(e) is provided in Section 7.2. This implies that any remedies or limitations related to liability would be detailed in Section 7.2, which would need to be reviewed to confirm if there is a cap on liability."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement between Intricon Corporation and Dynamic Hearing Pty Ltd for DSP Technology Development; Can this contract be terminated for convenience, and under what conditions?",
+        "context": "Subject to the provisions of 11.1, Dynamic Hearing may terminate this Agreement upon three (3) months written notice  to IntriCon of such termination.",
+        "file_name": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement.txt",
+        "answer": "Yes, the contract can be terminated for convenience by Dynamic Hearing Pty Ltd. Dynamic Hearing may terminate the Agreement with IntriCon by providing a written notice three months in advance of the termination."
+    },
+    {
+        "question": "Consider the Supply Agreement between Integra LifeSciences Corporation and PcoMed, LLC for Surface Modification of Spinal Medical Devices; Is there a cap on liability under this contract?",
+        "context": "PcoMed's conversion right is PcoMed's sole and exclusive remedy for Integra's failure to satisfy the Minimum Payment for any Minimum Payment Period",
+        "file_name": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.txt",
+        "answer": "The contract does not specify a cap on liability directly. However, it states that PcoMed's conversion right is the sole and exclusive remedy for Integra's failure to meet the Minimum Payment for any Minimum Payment Period, suggesting that PcoMed's recourse for breaches related to payment is limited to this specific remedy."
+    },
+    {
+        "question": "Consider the Collaboration Agreement between Capsugel US, LLC and Cardax, Inc. for Product Development and Commercialization; What are the audit rights under this contract?",
+        "context": "CARDAX shall have the right to audit CAPSUGEL's facilities, quality systems and records from time to time upon reasonable notice and CARDAX shall have the right to have a third party accounting firm, subject to a non-disclosure agreement, audit CAPSUGEL's financials as they relate to Net Sales and Adjusted Net Sales.",
+        "file_name": "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
+        "answer": "Cardax, Inc. has the right to audit Capsugel's facilities, quality systems, and records upon reasonable notice. Additionally, Cardax has the right to have a third-party accounting firm, under a non-disclosure agreement, audit Capsugel's financials related to Net Sales and Adjusted Net Sales."
+    },
+    {
+        "question": "Consider the Distributor Agreement between Ingram Micro and NETGEAR; What is the governing law for this contract?",
+        "context": "This Agreement, including its attachment and order acknowledgments under the Agreement, constitutes the entire agreement between Distributor and NETGEAR with respect to the purchase, resale and distribution of the Products and is governed by the laws of the State of California except that body of law dealing with conflicts of law.",
+        "file_name": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",
+        "answer": "The governing law for this contract is the laws of the State of California, excluding its provisions related to conflicts of law."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement between EDGE Communications Solutions, LLC and FTE Networks, Inc.; What is the expiration date of this contract?",
+        "context": "THIS STRATEGIC ALLIANCE AGREEMENT (the \"Agreement\"), made effective this 17t h day of February 2016, through February 16, 2019 (the \"Initial Term\") i",
+        "file_name": "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.txt",
+        "answer": "The expiration date of this contract is February 16, 2019, as it specifies an Initial Term effective from February 17, 2016, through February 16, 2019."
+    },
+    {
+        "question": "Consider the Promotion Agreement between Go Call, Inc. and PageMaster Corporation; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "PageMaster Corporation will pay Go Call $3.00 per pager (beginning with pager # 1) and 5% of all airtime renewal revenue for each pager redeemed for this promotion consistent with the terms of paragraph 6b of this Agreement.",
+        "file_name": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement.txt",
+        "answer": "Yes, the contract includes revenue-sharing arrangements. PageMaster Corporation will pay Go Call $3.00 per pager and 5% of all airtime renewal revenue for each pager redeemed as part of this promotion."
+    },
+    {
+        "question": "Consider the Unconditional Capital Maintenance Agreement between American International Group, Inc. and American General Life Insurance Company of Delaware; What is the expiration date of this contract?",
+        "context": "Unless earlier terminated in accordance with this paragraph 8, this        Agreement shall continue indefinitely.",
+        "file_name": "SEPARATEACCOUNTIIOFAGL_05_02_2011-EX-99.(J)(4)-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.txt",
+        "answer": "The contract does not have a fixed expiration date and is set to continue indefinitely unless terminated earlier in accordance with paragraph 8 of the Agreement."
+    },
+    {
+        "question": "Consider the Sponsorship Agreement between HealthCare Capital Corp. and C.M. Oliver & Company Limited; What is the governing law for this contract?",
+        "context": "This  Agreement is governed by, and will be construed in  accordance  with,  the laws of British Columbia, Canada.",
+        "file_name": "SONUSCORP_03_12_1997-EX-10.11-SPONSORSHIP AGREEMENT.txt",
+        "answer": "The governing law for this contract is the laws of British Columbia, Canada."
+    },
+    {
+        "question": "Consider the Joint Venture Agreement between IMPCO Technologies Inc. and Minda Industries Limited for MINDA IMPCO Technologies Limited; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+        "context": "After the expiry of the five (5) year period, if a Party intends to sell any or all of its shares of the JVC (the \"Transferor\"), it shall first make an offer by a written notice to the other Parties (the \"Transferee\") to purchase such shares and the other Parties shall have the right to purchase the offered shares in proportion of their existing shareholding. . If any of the Transferees intends to purchase all or any portion of the said shares so offered, such Party shall dispatch a written notice of acceptance to the transferor describing the number of the shares it intends to purchase within three (3) weeks after the date of receipt of the offer. The sale price of the shares shall be determined in terms of Article 6.3(c) hereof.",
+        "file_name": "IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT.txt",
+        "answer": "Yes, the contract includes a right of first offer. After a five-year period, if a party intends to sell any or all of its shares in the joint venture, it must first offer those shares to the other parties in proportion to their existing shareholding. The other parties have three weeks to accept the offer and specify the number of shares they intend to purchase."
+    },
+    {
+        "question": "Consider the Content License, Marketing, and Sales Agreement between eFashion Solutions, LLC and Playboy.com, Inc.; Is there a non-compete clause in this contract?",
+        "context": "Upon written request of Client, EFS shall discontinue or modify  any Advertisement that in the reasonable opinion of Client is not appropriate for the Client brand or is competitive with Client  business.",
+        "file_name": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.txt",
+        "answer": "The contract includes a provision allowing the Client (Playboy.com, Inc.) to request that eFashion Solutions discontinue or modify any advertisement that is deemed inappropriate for the Client's brand or is competitive with the Client's business. However, this is not a standard non-compete clause but does give Playboy.com control over potentially competitive advertising."
+    },
+    {
+        "question": "Consider the Distributor Agreement between Lucid Inc. and [Distributor]; What is the renewal term for this contract?",
+        "context": "After the initial term, unless terminated, this  Agreement will automatically renew for periods of one (1) calendar year each.",
+        "file_name": "LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.txt",
+        "answer": "The contract will automatically renew for one-year terms after the initial term, unless it is terminated."
+    },
+    {
+        "question": "Consider the License and Reseller Agreement between Ehave, Inc. and Companion Healthcare Technologies Corp.; What are the audit rights under this contract?",
+        "context": "CHT shall provide to Ehave and its Auditors any assistance they may reasonably require to conduct such Audits. Audits may be conducted once a calendar year, provided that the foregoing limit shall not apply where an audit discovered an overcharge of 5% or more, in which case, Ehave may conduct another audit sooner. No period shall be audited more than once. Costs incurred by Ehave in connection with any audit or inspection conducted shall be borne by Ehave.",
+        "file_name": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.txt",
+        "answer": "Ehave, Inc. has the right to conduct audits of Companion Healthcare Technologies Corp. (CHT) once per calendar year. However, if an audit discovers an overcharge of 5% or more, Ehave may conduct another audit sooner. Each period can only be audited once, and the costs of any audit are to be borne by Ehave."
+    },
+    {
+        "question": "Consider the Development Agreement between Cargill, Incorporated and Bioamber S.A.S. for the Production of Succinic Acid; Is there a cap on liability under this contract?",
+        "context": "Bioamber and Cargill agree to waive any and all claims against each other for consequential, punitive, incidental, special, or  other forms of \"exemplary\" losses whether arising in contract, warranty, tort (including negligence), strict liability, or otherwise, including  any losses relating to lost use, lost profits, lost business, damage to reputation, or lost or diminished financing unless such claims are  based on a Party's gross negligence or willful misconduct.",
+        "file_name": "BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1).txt",
+        "answer": "Yes, the contract includes a limitation on liability. Cargill and Bioamber waive claims against each other for consequential, punitive, incidental, special, or exemplary damages, such as lost profits, lost business, or damage to reputation. However, this limitation does not apply to claims arising from a party's gross negligence or willful misconduct."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement between Dialog Semiconductor (UK) Ltd and Energous Corporation; Is there a non-compete clause in this contract?",
+        "context": "DIALOG will have the right to terminate this Agreement immediately upon the issuance of written notice to ENERGOUS (A) if ENERGOUS undergoes a Change of Control involving a competitor of DIALOG, or (B) if ENERGOUS acquires, whether directly through a sale of assets or through a Change of Control transaction, any competitor of DIALOG (as reasonably determined by DIALOG). ENERGOUS will provide DIALOG with notice of any such Change of Control or acquisition within [***] after the closing thereof and DIALOG's right to terminate the Agreement will expire [***] after receipt of such notice.",
+        "file_name": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT.txt",
+        "answer": "The contract does not contain a standard non-compete clause. However, Dialog Semiconductor has the right to terminate the agreement if Energous undergoes a change of control involving a competitor of Dialog or if Energous acquires a competitor of Dialog. Energous is required to notify Dialog of such events, allowing Dialog to exercise its termination right."
+    },
+    {
+        "question": "Consider the Wholesale Marketing Agreement between ALPS Distributors, Inc. and S2K Financial LLC; What is the governing law for this contract?",
+        "context": "This Agreement and the application and interpretation hereof shall be governed exclusively by the laws of the State of Colorado.",
+        "file_name": "CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement.txt",
+        "answer": "The governing law for this contract is the laws of the State of Colorado."
+    },
+    {
+        "question": "Consider the Intellectual Property Agreement between Honeywell International Inc. and Garrett Motion Inc.; Are any of the licenses granted under this contract irrevocable or perpetual?",
+        "context": "Hence, as of the Distribution Date, Honeywell hereby grants, and agrees to cause the members of the Honeywell Group to hereby grant, to SpinCo and the members of the SpinCo Group a non-exclusive, royalty-free, fully-paid, perpetual, sublicenseable (solely to Subsidiaries and suppliers for \"have-made\" purposes), worldwide license to use and exercise rights under the Honeywell Shared IP (excluding Trademarks, the Honeywell Content and the subject matter of any other Ancillary Agreement), said license being limited to use of a similar type, scope and extent as used in the SpinCo Business prior to the Distribution Date and the natural growth and development thereof.",
+        "file_name": "GarrettMotionInc_20181001_8-K_EX-2.4_11364532_EX-2.4_Intellectual Property Agreement.txt",
+        "answer": "Yes, the contract grants Garrett Motion Inc. (SpinCo) and its affiliates a non-exclusive, royalty-free, fully-paid, perpetual, sublicensable (to subsidiaries and suppliers for 'have-made' purposes), worldwide license to use the Honeywell Shared IP. This license is perpetual and limited to the type, scope, and extent of use as it was prior to the Distribution Date."
+    },
+    {
+        "question": "Consider the Co-Promotion Agreement between Dova Pharmaceuticals, Inc. and Valeant Pharmaceuticals North America LLC; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "If the aggregate actual number of Details for the Product made by the Sales Representatives for a Calendar Quarter is less than the Quarterly Minimum Details for such Calendar Quarter, then in calculating the promotion fee due under Section 6.1.1, the Applicable Percentage for such Calendar Quarter shall be reduced to a new percentage equal to [***].",
+        "file_name": "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt",
+        "answer": "Yes, the contract includes a revenue-sharing arrangement in the form of a promotion fee. The promotion fee calculation is influenced by the number of product Details made by Sales Representatives, with adjustments to the Applicable Percentage if the number of Details falls below the Quarterly Minimum for a Calendar Quarter."
+    },
+    {
+        "question": "Consider the Hosting and Management Agreement between HealthGate Data Corp., Blackwell Science Limited, and Munksgaard A/S; What is the renewal term for this contract?",
+        "context": "If the Publishers exercise their right to renew,             the term of the Services shall be extended by one further year, up             to and including 28 February 2001.",
+        "file_name": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).txt",
+        "answer": "If the Publishers exercise their right to renew, the contract will be extended by one additional year, up to and including February 28, 2001."
+    },
+    {
+        "question": "Consider the Promotion Agreement between Depomed, Inc. and King Pharmaceuticals, Inc. for Glumetza; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+        "context": "Depomed shall notify King in writing in the event that Depomed desires to divest itself of its rights to the Product in the Territory (e.g., by asset sale or product license to a Third Party), or of its rights in the Territory to a product owned or controlled by Depomed containing metformin and another active pharmaceutical ingredient in combination with Depomed's proprietary drug delivery technology incorporated within the Product (currently referred to as the AcuForm technology) (a \"Combination Product\").",
+        "file_name": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+        "answer": "Yes, the contract includes a form of right of first offer. Depomed is required to notify King Pharmaceuticals in writing if it decides to divest its rights to the Product in the Territory or a related Combination Product, giving King an opportunity to respond to the potential divestment."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement between AURA SYSTEMS INC. and ZANOTTI EAST INC. for Integrated Transport Refrigeration Solutions; Is there a cap on liability under this contract?",
+        "context": "IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL,  CONSEQUENTIAL OR INDIRECT DAMAGES, HOWEVER CAUSED.",
+        "file_name": "AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT.txt",
+        "answer": "Yes, the contract limits liability by stating that neither party shall be liable to the other for any special, consequential, or indirect damages."
+    },
+    {
+        "question": "Consider the Franchise Agreement between Pretzel Time, Inc. and Franchisee; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "Franchisee  agrees to pay on a weekly basis to Pretzel Time, as partial consideration  for the grant of the Franchise,  an  Advertising  Fund Fee of one percent  (1%) of Net revenues  for the  preceding  week as defined in Section 1.",
+        "file_name": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.txt",
+        "answer": "Yes, the contract includes a revenue-sharing arrangement where the Franchisee agrees to pay Pretzel Time an Advertising Fund Fee of 1% of Net Revenues on a weekly basis as partial consideration for the franchise."
+    },
+    {
+        "question": "Consider the License and Reseller Agreement between Ehave, Inc. and Companion Healthcare Technologies Corp.; What are the insurance requirements under this contract?",
+        "context": "Both Parties shall, at all times during the currency of this Agreement and for a period of one (1) year after the termination or expiration of this Agreement, maintain the following policies of insurance in effect: (i) a comprehensive general liability insurance policy, with minimum coverage of $1,000,000 per occurrence and in the annual aggregate for product liability and completed operations, covering bodily and personal injury, including death, and property damage, including loss of use; and (ii) an information and network technology blended liability insurance policy with an insured limit of at least $1,000,000 in the aggregate.",
+        "file_name": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.txt",
+        "answer": "Both parties are required to maintain two types of insurance: (i) a comprehensive general liability insurance policy with a minimum coverage of $1,000,000 per occurrence and in the annual aggregate for product liability and completed operations, covering bodily and personal injury, including death, and property damage, including loss of use; and (ii) an information and network technology blended liability insurance policy with a minimum insured limit of $1,000,000 in aggregate. These policies must be maintained during the term of the agreement and for one year after its termination or expiration."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement between Freedom Mortgage Corporation and Cherry Hill Mortgage Investment Corp.; What is the governing law for this contract?",
+        "context": "This Agreement shall be governed by the laws of the State of New York, without giving effect to its principles of conflicts of laws, other than Section 5-1401 of the New York General Obligations Law.",
+        "file_name": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement.txt",
+        "answer": "The governing law for this contract is the laws of the State of New York, excluding its principles of conflicts of law, except for Section 5-1401 of the New York General Obligations Law."
+    },
+    {
+        "question": "Consider the Content License Agreement between Digicorp, Inc. and New China Media LLC, YGP, LLC, and TWK Holdings, LLC; Does the licensee's affiliates have any licensing rights under this contract?",
+        "context": "CONTENT PROVIDER further grants to COMPANY (i) the right to sublicense the Content to COMPANY'S wholly-owned subsidiaries or to joint ventures in which COMPANY participates for the sole purpose of using, reproducing, distributing, transmitting and publicly displaying the Content in accordance with this Agreement; and, (ii) the right, in COMPANY'S discretion, to use and exploit the Content at one or more other web sites in addition to or in lieu of the web sites referred to in the recital above (the web sites referred to above and any other web sites in addition to or in lieu thereof where COMPANY, its subsidiaries or joint ventures in which it might participate might use or exploit the Content are hereinafter collectively referred to as the \"Web site\").",
+        "file_name": "MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.txt",
+        "answer": "Yes, the contract grants the licensee (COMPANY) the right to sublicense the Content to its wholly-owned subsidiaries or to joint ventures in which it participates. These sublicensed rights allow the subsidiaries or joint ventures to use, reproduce, distribute, transmit, and publicly display the Content in accordance with the agreement."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement between Lion Biotechnologies, Inc. and The University of Texas M. D. Anderson Cancer Center for Cancer Research; Is there uncapped liability under this contract?",
+        "context": "Accordingly, LBIO shall have available, in addition to any other right or remedy available to it, the right to seek an injunction from a court of competent jurisdiction restraining such a breach (or threatened breach) and to specific performance of any such Section.",
+        "file_name": "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+        "answer": "The context does not explicitly indicate uncapped liability. It only specifies that Lion Biotechnologies, Inc. has the right to seek an injunction or specific performance to prevent or address breaches, suggesting remedies but not indicating whether liability is capped or uncapped. Additional sections would need to be reviewed for confirmation."
+    },
+    {
+        "question": "Consider the Licensing and Web Site Hosting Agreement between Mortgage Logic.com, Inc. and TrueLink, Inc.; Is there a minimum commitment required under this contract?",
+        "context": "Client will pay TrueLink's fees for requested Hosting Services and Support Services pursuant to the schedule of charges set forth on Exhibits \"A\" and \"B\" attached hereto, (but not less than $____ per month for the Hosting Services and $____ per month for Support Services).",
+        "file_name": "BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT.txt",
+        "answer": "Yes, the contract implies a minimum monthly commitment for both Hosting Services and Support Services, though the exact amounts are left unspecified (indicated as \"$____ per month\" for each service)."
+    },
+    {
+        "question": "Consider the Supply Agreement between MediWound Ltd. and Vericel Corporation; Can this contract be terminated for convenience, and under what conditions?",
+        "context": "Following the Initial Term, Vericel may, without penalty or prejudice to any other rights or remedies Vericel may have, in its sole discretion terminate or reduce the scope of any individual activities contemplated by this Agreement or any Additional Service or with respect to any Product or terminate this Agreement as a whole with or without cause, upon [***] prior written notice of such termination or reduction (which such written notice may be provided during the Initial Term).",
+        "file_name": "VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT.txt",
+        "answer": "Yes, the contract can be terminated for convenience. Following the Initial Term, Vericel has the right to terminate the agreement or reduce the scope of any individual activities or products, with or without cause, by providing prior written notice. The exact notice period is redacted in the context but must be given according to the agreement's terms."
+    },
+    {
+        "question": "Consider the Sponsorship Agreement between Excite, Inc. and N2K Inc. for Exclusive Retail Music Store Sponsorship; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+        "context": "Commencing not later than [****] prior to the expiration                   of the term of the Agreement, Excite will negotiate with                   Sponsor in good faith with respect to the terms and conditions                   under which this Agreement would be renewed. Excite will                   negotiate exclusively with Sponsor for the next [****] in good                   faith effort to negotiate and execute a written sponsorship                   renewal agreement. If, [****] prior to the expiration of the                   term of the Agreement, the parties have not entered into a                   written sponsorship renewal agreement. Excite may enter into                   negotiations with any third party with respect to retail music                   store sponsorships of the Excite Site.",
+        "file_name": "N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+        "answer": "Yes, the contract includes a right of first negotiation. Excite will negotiate exclusively with the Sponsor in good faith for a set period prior to the agreement’s expiration to attempt to renew the sponsorship. If the parties do not reach an agreement within the specified period, Excite may then enter negotiations with third parties."
+    },
+    {
+        "question": "Consider the Manufacturing Outsourcing Agreement between Nice Systems Ltd. and Flextronics Israel Ltd.; Is there an anti-assignment clause in this contract?",
+        "context": "Neither party shall in any way sell, transfer, assign,           sub-contract or otherwise dispose of any of the rights, privileges,           duties and obligations granted or imposed upon it under this           Agreement. However, NICE may, at its discretion, transfer and/or           assign any of its rights, privileges, duties and obligations granted           or imposed upon it under this Agreement to any NICE Affiliate,           provided that NICE remains responsible towards Contractor, jointly and           severally with the Affiliate, for all of its obligations hereunder so           assigned, and provided further that the assignee signs this Agreement.",
+        "file_name": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt",
+        "answer": "Yes, the contract contains an anti-assignment clause. Neither party may assign or transfer any rights, privileges, duties, or obligations under the agreement. However, NICE may assign its rights and obligations to a NICE Affiliate, provided that NICE remains jointly and severally responsible for the obligations and the assignee signs the agreement."
+    },
+    {
+        "question": "Consider the Promotion Agreement between SIGA Technologies, Inc. and Meridian Medical Technologies, Inc.; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+        "context": "Notwithstanding the aforementioned requirement, before Promoter destroys any Safety Reports and associated source documents, or training records, it will notify SIGA of its intention to do so and afford SIGA the opportunity to retain such records if it so wishes.",
+        "file_name": "SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.txt",
+        "answer": " The contract does not include any mention of a right of first refusal, right of first offer, or right of first negotiation. The clause only discusses notification and an opportunity for SIGA to retain records before their destruction."
+    },
+    {
+        "question": "Consider the Franchise Agreement between BW-3 Franchise Systems, Inc. and Franchisee for Buffalo Wild Wings; What are the insurance requirements under this contract?",
+        "context": "The insurance coverage must commence as of the date the location of the Franchised Restaurant has been secured",
+        "file_name": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT.txt",
+        "answer": "The insurance coverage must commence as soon as the location for the Franchised Restaurant has been secured."
+    },
+    {
+        "question": "Consider the Joint Venture Agreement between BorrowMoney.com, inc and JVLS, LLC dba Vaccines 2Go for IT Development and Medical Services; What are the insurance requirements under this contract?",
+        "context": "The Venture may acquire insurance on behalf of any Member, employee, agent or other person engaged in the business interest of the Venture against any liability asserted against them or incurred by them while acting in good faith on behalf of the Venture.",
+        "file_name": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.txt",
+        "answer": "The joint venture may acquire insurance on behalf of any member, employee, agent, or other individual engaged in the venture's business to protect them from any liability incurred or asserted against them while acting in good faith on behalf of the venture."
+    },
+    {
+        "question": "Consider the Co-Branding Agreement between MediaLinx Interactive, L.P. and HealthCentral.com Inc.; Is there a non-compete clause in this contract?",
+        "context": "Neither party shall permit advertising on the Co-Branded Site from an entity which is a competitor to the other party.",
+        "file_name": "HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.txt",
+        "answer": "Yes, the contract includes a non-compete clause. Neither party is permitted to allow advertising on the Co-Branded Site from entities that compete with the other party."
+    },
+    {
+        "question": "Consider the Software License and Maintenance Agreement between D2 Technologies, Inc. and Summa Four Inc.; Can this contract be terminated for convenience, and under what conditions?",
+        "context": "LICENSEE may terminate this Agreement upon ninety (90) days written notice.",
+        "file_name": "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
+        "answer": "Yes, the contract can be terminated for convenience. The Licensee may terminate the agreement by providing ninety (90) days' written notice."
+    },
+    {
+        "question": "Consider the Franchise Agreement between Pizza Fusion Holdings, Inc. and Franchisee; Are the licenses granted under this contract non-transferable?",
+        "context": "You have no right to sublicense either the Proprietary Marks or the System to anyone else;",
+        "file_name": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.txt",
+        "answer": "Yes, the licenses granted under this contract are non-transferable. The Franchisee does not have the right to sublicense either the Proprietary Marks or the System to others."
+    },
+    {
+        "question": "Consider the Promotion Agreement between SIGA Technologies, Inc. and Meridian Medical Technologies, Inc.; What licenses are granted under this contract?",
+        "context": "Subject to the terms and conditions of this Agreement, SIGA hereby grants to MMT an exclusive right and license, with the right to grant sublicenses as permitted under Section 2.1(b), under the SIGA Intellectual Property solely to Promote the Product in the Field in the Territory.",
+        "file_name": "SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.txt",
+        "answer": "The contract grants Meridian Medical Technologies (MMT) an exclusive license, with the right to grant sublicenses (as permitted in Section 2.1(b)), under SIGA's Intellectual Property to promote the Product in the specified Field within the Territory."
+    },
+    {
+        "question": "Consider the Global Maintenance Agreement between Azul Linhas A\u00e9reas Brasileiras S/A and Avions de Transport Regional, G.I.E.; Is there a cap on liability under this contract?",
+        "context": "SUBJECT TO CLAUSE 15.2 BELOW, THE REPAIRER, SHALL NOT BE LIABLE TO THE COMPANY FOR ANY OF THE FOLLOWING TYPES OF LOSS OR DAMAGE ARISING UNDER OR IN RELATION TO THIS AGREEMENT (WHETHER ARISING FOR BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY, MISREPRESENTATION OR OTHERWISE):\n\n[*****]\n\n[*****]",
+        "file_name": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.txt",
+        "answer": "Yes, the contract limits liability by stating that the repairer shall not be liable for certain types of loss or damage arising under or in relation to the agreement. Specific exclusions are noted, although full details would be in Clause 15.2."
+    },
+    {
+        "question": "Consider the Sponsorship Agreement between Ford Motor Media and iVillage, Inc. for Online Promotion; What are the audit rights under this contract?",
+        "context": "All traffic reports shall be audited by the third party traffic auditor selected pursuant to Section 2.C.(ii).",
+        "file_name": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+        "answer": "The contract provides for audit rights by a third-party traffic auditor selected according to Section 2.C.(ii) to audit all traffic reports."
+    },
+    {
+        "question": "Consider the Master Joint Development Agreement between iBio Inc. and Beijing CC-Pharming Ltd. for Biopharmaceutical Development; Does this contract provide for joint intellectual property ownership?",
+        "context": "All rights to Agreement Inventions, patentable or non-patentable, made jointly by employees of iBio and employees of CC-Pharming (\"Joint Inventions\") will belong jointly to iBio and CC-Pharming, with inventorship determined as described in 35 U.S.C. \u00a7 262 and (Chin Patent Law).",
+        "file_name": "IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement.txt",
+        "answer": "Yes, the contract provides for joint ownership of intellectual property. All rights to jointly made Agreement Inventions (whether patentable or not) will belong jointly to iBio and CC-Pharming, with inventorship determined under U.S. and Chinese patent laws."
+    },
+    {
+        "question": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there a cap on liability under this contract?",
+        "context": "NEITHER PARTY SHALL BE LIABLE UNDER OR IN CONNECTION WITH THIS AGREEMENT FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, LIQUIDATED, SPECIAL OR EXEMPLARY DAMAGES OR PENALTIES, INCLUDING WITHOUT LIMITATION, LOSSES OF BUSINESS, REVENUE OR ANTICIPATED PROFITS, REGARDLESS OF WHETHER SUCH DAMAGE WAS FORESEEABLE AND WHETHER LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+        "file_name": "GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt",
+        "answer": "Yes, the contract includes a cap on liability, stating that neither party shall be liable for indirect, incidental, consequential, liquidated, special, or exemplary damages, including losses of business, revenue, or anticipated profits, regardless of foreseeability or prior notice."
+    },
+    {
+        "question": "Consider the Amendment to Wireless Content License Agreement between Glu Mobile, Inc. and Fox Mobile Entertainment, Inc.; What licenses are granted under this contract?",
+        "context": "Paragraph 1(a) of the Agreement is amended to provide that Fox grants Licensee a worldwide, exclusive (except as otherwise may be provided in the Agreement), non-transferable right and license to distribute video clips for the property \"KINGDOM OF HEAVEN\" (\"KOH Video Clips\").",
+        "file_name": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement2.txt",
+        "answer": "The amendment grants Licensee a worldwide, exclusive (except as otherwise specified in the agreement), non-transferable license to distribute video clips for the property \"KINGDOM OF HEAVEN\" (\"KOH Video Clips\")."
+    },
+    {
+        "question": "Consider the License and Development Agreement between Bioeq IP AG and Coherus BioSciences, Inc. for Ranibizumab Biosimilar; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "The license granted by Licensee pursuant to Section 9.2.2 shall be extended to also include the Development, Manufacture, sale, import or other Commercialization of Licensed Products in the Field in the Territory, and, unless this Agreement is terminated by Bioeq pursuant to pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by Licensee pursuant to Section 15.2.5 (in [***]), such license shall thereafter be royalty-bearing on Bioeq on Net Sales (applied mutatis mutandis as if Bioeq were Licensee, and additionally applying to sales by sublicensees of Bioeq) by Bioeq, its Affiliates, and its sublicensees of Licensed Products in the Field in the Territory which have [***] Licensee Improvement, at [***].",
+        "file_name": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.txt",
+        "answer": "Yes, the contract includes a revenue-sharing arrangement. The license becomes royalty-bearing on Bioeq based on Net Sales of Licensed Products, applied to sales by Bioeq, its affiliates, and sublicensees under specified conditions unless the agreement is terminated under certain sections."
+    },
+    {
+        "question": "Consider the Co-Branding Agreement between NETTAXI Online Communities, Inc. and Solutions Media, Inc. (SpinRecords.com); Are the licenses granted under this contract non-transferable?",
+        "context": "NETTAXI hereby grants to              ----------------------------------------- SpinRecords.com  a non-exclusive, worldwide, nontransferable, revocable, royalty free  license to use the NETTAXI Brand Features as the same may be modified from time  to  time  for  the  purposes  of  this  Agreement",
+        "file_name": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.txt",
+        "answer": "Yes, the licenses granted under this contract are non-transferable. NETTAXI grants SpinRecords.com a non-exclusive, worldwide, nontransferable, revocable, royalty-free license to use the NETTAXI Brand Features for the purposes of this Agreement."
+    },
+    {
+        "question": "Consider the Trademark License Agreement between Palmer Square Capital Management LLC and Palmer Square Capital BDC Inc.; What is the governing law for this contract?",
+        "context": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",
+        "file_name": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement.txt",
+        "answer": "The governing law for this contract is the laws of the State of New York."
+    },
+    {
+        "question": "Consider the Service Agreement between The Victory Portfolios and Hartford Life Insurance Co., Inc. for Administrative Services; What is the expiration date of this contract?",
+        "context": "This Agreement shall terminate (a) at the option of any party, upon 90 days' advance written notice to the other parties hereto; or (b) in the event of a material breach that has not been cured within ten days following a written notice of breach to the breaching party.",
+        "file_name": "TALCOTTRESOLUTIONLIFEINSURANCECO-SEPARATEACCOUNTTWELVE_04_30_2020-EX-99.8(L)-SERVICE AGREEMENT.txt",
+        "answer": "The contract does not have a fixed expiration date. It may terminate either (a) at the option of any party with 90 days' advance written notice or (b) upon a material breach that is not cured within ten days following a written notice of breach."
+    },
+    {
+        "question": "Consider the Content Licensing Agreement between Data Call Technologies, Inc. and PLAN_B MEDIA AG; What licenses are granted under this contract?",
+        "context": "LICENSOR  grants  to  plan_b  a  license  to produce, use, distribute,           promote  and  publicly  display  the  Content  in any possible way for           distribution and marketing purposes. Additionally, Licensee shall have           the  right  to  use  the trademarks, trade names, or logos relating to           Content  (the  \"TRADEMARKS\").",
+        "file_name": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.txt",
+        "answer": "The contract grants PLAN_B MEDIA AG a license to produce, use, distribute, promote, and publicly display the Content in any way for distribution and marketing purposes. Additionally, the license includes the right to use the trademarks, trade names, or logos associated with the Content."
+    },
+    {
+        "question": "Consider the Outsourcing Agreement between Twin Cities Power Holdings, LLC and Redwater LLC for Administration of Renewable Notes; What are the audit rights under this contract?",
+        "context": "At any time the Company and its agents and representatives may physically inspect any documents, files or  other records relating to the Renewable Note Program and discuss the same with the Contractor's officers and employees. The  Contractor shall supply copies of any such documents, files, or other records upon the request of the Company, as soon as is  reasonably and commercially practicable at the Company's cost and expense.",
+        "file_name": "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT.txt",
+        "answer": "The contract provides Twin Cities Power Holdings and its agents the right to physically inspect any documents, files, or other records related to the Renewable Note Program and discuss them with Redwater LLC's officers and employees. Redwater LLC is also required to provide copies of such documents upon request, at the cost and expense of Twin Cities Power Holdings."
+    },
+    {
+        "question": "Consider the Strategic Alliance Agreement among Rocky Mountain Chocolate Factory, Inc., Farids & Co. LLC, and Edible Arrangements, LLC; Is there an anti-assignment clause in this contract?",
+        "context": "The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns, provided, that, unless in connection with Permitted Transfers, neither party may assign, delegate or otherwise transfer any of its rights or obligations under this Agreement to any person without the express written consent of the other party hereto and any such assignment or other transfer shall be null and void; provided, further, that no such assignment shall relieve the assigning party of its obligations hereunder if such assignee does not perform such obligations.",
+        "file_name": "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+        "answer": "Yes, the contract contains an anti-assignment clause. Neither party may assign, delegate, or transfer its rights or obligations under the agreement to any person without the express written consent of the other party, except in the case of Permitted Transfers. Any unauthorized assignment is considered null and void, and the assigning party remains responsible if the assignee fails to perform the obligations."
+    },
+    {
+        "question": "Consider the Exclusive Distributor Agreement between IMRS Operations Inc. and Delteq Pte Ltd.; What is the duration of any warranties provided in this contract?",
+        "context": "For ninety (90) days after delivery of a Product to Distributor, Developer warrants that media upon which the Products are delivered shall be of good quality and workmanship.",
+        "file_name": "HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT.txt",
+        "answer": "The contract provides a warranty duration of ninety (90) days after the delivery of a product to the distributor, warranting that the media upon which the products are delivered will be of good quality and workmanship."
+    },
+    {
+        "question": "Consider the Promotion Agreement between Janssen Biotech, Inc. and Immunomedics, Inc.; Is there a cap on liability under this contract?",
+        "context": "FURTHER, SUBJECT TO AND WITHOUT LIMITING THE INDEMNIFICATION OBLIGATIONS OF EACH PARTY WITH RESPECT TO THIRD PARTY ACTIONS UNDER SECTIONS 12.1 AND 12.2, AND EXCEPT WITH RESPECT TO LIABILITY ARISING FROM BREACH OF SECTION 9.1 BY A PARTY OR ARISING FROM THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF A PARTY, EACH PARTY'S AGGREGATE LIABILITY TO THE OTHER PARTY FOR ALL CASES AND CONTROVERSIES ARISING OUT OF THE SUBJECT MATTER OF THIS AGREEMENT, REGARDLESS OF THE CAUSE OF ACTION AND WHETHER BROUGHT IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, WILL BE LIMITED TO $[***].",
+        "file_name": "IMMUNOMEDICSINC_08_07_2019-EX-10.1-PROMOTION AGREEMENT.txt",
+        "answer": "Yes, the contract includes a cap on liability. Each party's aggregate liability to the other for all claims arising out of the agreement is limited to a specified amount, except for liabilities arising from breach of Section 9.1, gross negligence, or willful misconduct. The exact cap amount is redacted in the context provided."
+    },
+    {
+        "question": "Consider the Collaboration Agreement for COVID-19 Drug Development between Anixa Biosciences, Inc. and OntoChem GmbH; Are there any services to be provided after the termination of this contract?",
+        "context": "In addition, if this Agreement is terminated prior to completion of the Research Program, OntoChem will promptly furnish to Anixa any Deliverable or other work product generated to date and not previously provided to Anixa, including work in process.",
+        "file_name": "ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT.txt",
+        "answer": "Yes, if the agreement is terminated before the completion of the Research Program, OntoChem is obligated to promptly provide Anixa with any deliverables or work products generated up to that point, including any work in process that has not yet been delivered."
+    },
+    {
+        "question": "Consider the Franchise Agreement between Homewood Suites Franchise LLC and Franchisee for Homewood Suites Hotel; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "Monthly Program Fee: Four percent (4%) of the Hotel's Gross Rooms Revenue for the preceding calendar month.",
+        "file_name": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.txt",
+        "answer": "Yes, the contract includes a revenue-sharing arrangement. The franchisee is required to pay a Monthly Program Fee equal to 4% of the hotel's gross rooms revenue for the preceding calendar month."
+    },
+    {
+        "question": "Consider the Distributor Agreement between Lucid Inc. and [Distributor]; Does this contract include an exclusivity agreement?",
+        "context": "The Distributor is appointed as an exclusive Distributor within the following territories: [*].",
+        "file_name": "LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.txt",
+        "answer": "Yes, the contract includes an exclusivity agreement. The distributor is appointed as an exclusive distributor within specified territories (the exact territories are not disclosed in the context)."
+    },
+    {
+        "question": "Consider the Supply Agreement between Cremer OLEO GmbH & Co KG and Ultragenyx Pharmaceutical Inc. for Triheptanoin; Is there a cap on liability under this contract?",
+        "context": "NEITHER PARTY MAY CLAIM AND NEITHER PARTY IS LIABLE FOR CLAIMS FOR INDIRECT DAMAGES AND LOSSES, SUCH AS SPECIAL OR CONSEQUENTIAL LOSS OR DAMAGE, ANY LOSS OF ACTUAL OR ANTICIPATED PROFIT, OR REVENUE, ANTICIPATED SAVINGS OR BUSINESS OR DAMAGE TO GOODWILL OR BRAND EQUITY, ARE EXCLUDED.",
+        "file_name": "ULTRAGENYXPHARMACEUTICALINC_12_23_2013-EX-10.9-SUPPLY AGREEMENT.txt",
+        "answer": "Yes, the contract includes a cap on liability by excluding liability for indirect damages and losses, including special or consequential loss, loss of actual or anticipated profit, revenue, anticipated savings, business, and damage to goodwill or brand equity."
+    },
+    {
+        "question": "Consider the License and Hosting Agreement between Corio Inc. and Changepoint, Inc.; Is there an anti-assignment clause in this contract?",
+        "context": "Neither party may assign this Agreement or any rights or          obligations hereunder, whether by operation of law or otherwise,          without the prior written consent of the other party.",
+        "file_name": "CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT.txt",
+        "answer": "Yes, the contract includes an anti-assignment clause. Neither party may assign the agreement or any rights or obligations under it without the prior written consent of the other party, regardless of whether the assignment is by operation of law or otherwise."
+    },
+    {
+        "question": "Consider the Outsourcing Agreement between International Business Machines Corporation and Manufacturers' Services Western U.S. Operations, Inc.; What are the audit rights under this contract?",
+        "context": "IBM shall have the option to monitor, inspect, audit and take other necessary actions in order to comply with IBM's requirements to MS regarding any of MS's Code, or documentation, used hereunder.",
+        "file_name": "MANUFACTURERSSERVICESLTD_06_05_2000-EX-10.14-OUTSOURCING AGREEMENT.txt",
+        "answer": "The contract grants IBM the right to monitor, inspect, and audit the code, documentation, or other necessary aspects to ensure compliance with IBM's requirements regarding MS’s obligations."
+    },
+    {
+        "question": "Consider the Transportation Contract between JSC NOC KazakhOil and JSC Karakudukmunay for Crude Oil Export; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "The Principal shall pay the Company a fee of $1.00 (one dollar), inclusive      of VAT, per one net tonne of Commodity shipped pursuant to this Contract.",
+        "file_name": "CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT.txt",
+        "answer": "No, the contract does not include revenue or profit-sharing arrangements. Instead, it specifies a fixed fee of $1.00 per net tonne of commodity shipped, inclusive of VAT."
+    },
+    {
+        "question": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Is there uncapped liability under this contract?",
+        "context": "EXCEPT FOR [**], IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE   OTHER PARTY FOR [**], EVEN IF SUCH PARTY WAS ADVISED OR AWARE OF THE POSSIBILITY OF SUCH   DAMAGES.",
+        "file_name": "ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt",
+        "answer": "No, the contract does not indicate uncapped liability. It includes a limitation of liability, stating that neither party will be liable to the other for certain types of damages, although specific exceptions and types of damages are redacted in the provided context."
+    },
+    {
+        "question": "Consider the Site Development and Hosting Agreement between Hanover Direct, Inc. and The Deerskin Companies, Inc.; What is the governing law for this contract?",
+        "context": "This Agreement shall be governed and construed and enforced in accordance with the laws of the State of New York applicable to contracts made and to be performed exclusively in that State without giving effect to the principles of conflict of laws.",
+        "file_name": "AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT.txt",
+        "answer": "The governing law for this contract is the laws of the State of New York, applicable to contracts made and to be performed exclusively in New York, without considering conflict of law principles."
+    },
+    {
+        "question": "Consider the Global Master Supply Agreement between ExxonMobil Chemical Company and West Pharmaceutical Services, Inc.; Is there an anti-assignment clause in this contract?",
+        "context": "Neither party may assign this Agreement without the written consent of the other party save in the case where such assignment is to an EM Affiliate and prior written notice has been given to the Buyer.",
+        "file_name": "WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.txt",
+        "answer": "Yes, the contract contains an anti-assignment clause. Neither party may assign the agreement without the other party's written consent, except in the case of an assignment to an EM Affiliate, provided prior written notice is given to the buyer."
+    },
+    {
+        "question": "Consider the Marketing and Transportation Services Agreement between Purolator Courier Ltd. and Parcelway Courier Systems Canada Ltd. (Dynamex Inc.); What are the audit rights under this contract?",
+        "context": "Either Party shall have the right to request the other to provide,        through an auditor agreed to by the Parties, validation of the        information and data referred to herein.",
+        "file_name": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+        "answer": "The contract grants either party the right to request validation of information and data through an auditor mutually agreed upon by both parties."
+    },
+    {
+        "question": "Consider the Sponsored Research and License Agreement between ArTara, Inc. and The University of Iowa for TARA-002 Development; What are the audit rights under this contract?",
+        "context": "University will provide ArTara and CRO the opportunity to examine the originals of medical records and supporting records for the Program Data at the University during normal business hours and at mutually agreeable times.",
+        "file_name": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.txt",
+        "answer": "The contract provides ArTara and its CRO the right to examine the originals of medical records and supporting records related to the Program Data at the University. This access is allowed during normal business hours and at mutually agreeable times."
+    },
+    {
+        "question": "Consider the License and Reseller Agreement between Ehave, Inc. and Companion Healthcare Technologies Corp.; Are the licenses granted under this contract non-transferable?",
+        "context": "In connection with the exercise of CHT's rights under the Escrow Agreement, Ehave hereby grants to CHT a non- exclusive, non-transferable (except as set forth in Section 20(f)), right and license to use and copy the materials deposited with the Escrow Agent, including the Source Code, its Specifications and documentation, and any resulting corrections, repairs, translations, enhancements, and other derivative works and improvements made by CHT, for the sole purposes of providing to CHT the ability to operate, support and maintain, the Ehave Companion Solution for its End Users from time to time, until such time that CHT is able to migrate off the Ehave Companion Solution, but in any event not exceeding twelve months from the date of release of the materials from escrow.",
+        "file_name": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.txt",
+        "answer": "Yes, the licenses granted are generally non-transferable. Ehave grants Companion Healthcare Technologies (CHT) a non-exclusive, non-transferable license (except as specified in Section 20(f)) to use and copy certain materials for operational, support, and maintenance purposes, with the license period limited to twelve months from the release of the materials from escrow."
+    },
+    {
+        "question": "Consider the Supply Agreement between MediWound Ltd. and Vericel Corporation; What are the insurance requirements under this contract?",
+        "context": "For the duration of this Agreement and for a period of [***] following its termination, each Party agrees to obtain and maintain, during the Term, commercial general liability insurance, including product liability insurance, with reputable and financially secure insurance carriers (or pursuant to a program of self-insurance reasonably satisfactory to the other Party) to cover its indemnification obligations under Section 7.1 or Section 7.2, as applicable, in each case with limits of not less than [***] per occurrence and in the aggregate. Insurance shall be procured with carriers having an A.M. Best Rating of A-VII or better.",
+        "file_name": "VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT.txt",
+        "answer": "Each party is required to maintain commercial general liability insurance, including product liability insurance, with reputable carriers holding an A.M. Best Rating of A-VII or better. The insurance must cover their indemnification obligations under the contract with specified minimum limits per occurrence and in the aggregate, continuing for the contract's duration and a specified period after its termination."
+    },
+    {
+        "question": "Consider the Intellectual Property Agreement between Armstrong Flooring, Inc., AFI Licensing LLC, AHF Holding, Inc., and Armstrong Hardwood Flooring Company; What licenses are granted under this contract?",
+        "context": "Subject to the terms and conditions of this Agreement, Arizona hereby grants to the Company a perpetual, non- exclusive, royalty-free license in, to and under the Arizona Licensed Copyrights for use in the Company Field throughout the world.",
+        "file_name": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.txt",
+        "answer": "The contract grants Armstrong Flooring, Inc. a perpetual, non-exclusive, royalty-free license to use the Arizona Licensed Copyrights within the Company Field globally, subject to the agreement's terms and conditions."
+    },
+    {
+        "question": "Consider the Sponsorship Agreement between drkoop.com, inc. and Vitamin Shoppe Industries, Inc.; Are the licenses granted under this contract non-transferable?",
+        "context": "Subject to the terms and conditions hereof, drkoop.com hereby represents that it has the power and authority to grant, and does hereby grant to Sponsor a non-exclusive, non-transferable, royalty-free, worldwide license to reproduce and display all logos, trademarks, trade names and similar identifying material relating to drkoop.com and, solely as allowed pursuant to this Agreement, to the Dr. C. Everett Koop name (collectively, the \"drkoop.com Marks\") solely in connection with the promotion, marketing and distribution of the parties and the Sites in accordance with the terms hereof, provided, however, that Sponsor shall, other than as specifically provided for in Section 4.4 of this Agreement, not make any specific use of any drkoop.com Marks without first submitting a sample of such use to drkoop.com and obtaining its prior consent, which consent shall not be unreasonably withheld.",
+        "file_name": "DRKOOPCOMINC_04_21_1999-EX-10.28-SPONSORSHIP AGREEMENT.txt",
+        "answer": "Yes, the licenses granted under this contract are non-transferable. The agreement specifically grants a non-exclusive, non-transferable, royalty-free, worldwide license to Sponsor to use the drkoop.com Marks, with the restriction that Sponsor cannot transfer the license without prior consent, except as allowed under specific provisions of the agreement."
+    },
+    {
+        "question": "Consider the Manufacturing Outsourcing Agreement between Nice Systems Ltd. and Flextronics Israel Ltd.; What are the audit rights under this contract?",
+        "context": "As part of the Manufacturing           Outsourcing Services, Contractor shall (1) retain records and           supporting documentation detailed in Section 10.2 above if and to the           extent such record retention is required by tax or similar           authorities, and/or exists in the ERP system, and/or is common           practice in the industry, including but not limited to - production           files for the following periods: 7 years for records required by tax           or similar authorities and ERP data, 3 years for production files,           otherwise as required by law or as is the common practice, and (2)           upon notice of no less than five (5) Days from NICE, provide NICE and           its designees with reasonable access to such records and documentation           for the purpose of conducting NICE' business and reporting.",
+        "file_name": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt",
+        "answer": "The contract provides that Flextronics Israel Ltd. must retain records and supporting documentation, including production files, for periods specified by tax authorities, ERP data (7 years), and other common industry practices. NICE and its designees have the right to access these records upon providing no less than five days' notice, for purposes related to conducting NICE’s business and reporting."
+    },
+    {
+        "question": "Consider the Distributor Agreement between VendingData Corporation and Technical Casino Supplies Ltd for Casino Products; What is the expiration date of this contract?",
+        "context": "As provided for in this Section 1, the term of this Agreement shall be for a period of five (5) years, beginning on the Effective Date (the \"Initial Term\"); provided, however, the Initial Term shall be subject to automatic successive renewal terms of three (3) years each (the \"Renewal Terms\" and together with the Initial Term, the \"Term\").",
+        "file_name": "ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT.txt",
+        "answer": "The contract has an initial term of five years starting from the effective date. After the initial term, it is subject to automatic successive renewal terms of three years each, unless terminated as per the agreement."
+    },
+    {
+        "question": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; What is the renewal term for this contract?",
+        "context": "Distributor shall have the option to renew this Agreement for an additional Three (3) year period by providing prior written notice to Company within Ninety (90) days of the end of the initial period of this Agreement.",
+        "file_name": "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt",
+        "answer": "The distributor has the option to renew the agreement for an additional three-year period by providing prior written notice to the company within ninety days before the end of the initial term."
+    },
+    {
+        "question": "Consider the Endorsement Agreement for Kathy Ireland Eyewear between Kathy Ireland, Inc., The Sterling/Winters Co., and Diplomat Ambassador Eyewear Group; Is there an anti-assignment clause in this contract?",
+        "context": "This Agreement and all rights and duties hereunder are personal to Diplomat and shall not, without the written consent of KI, Inc., be assigned, mortgaged, sublicensed or otherwise encumbered by Diplomat or by operation of law.",
+        "file_name": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt",
+        "answer": "Yes, the contract includes an anti-assignment clause. Diplomat may not assign, mortgage, sublicense, or otherwise encumber the agreement or its rights and duties without the written consent of Kathy Ireland, Inc., and this restriction applies even by operation of law."
+    },
+    {
+        "question": "Consider the Exclusive Distributor Agreement between IMRS Operations Inc. and Delteq Pte Ltd.; Is there a cap on liability under this contract?",
+        "context": "IN NO EVENT SHALL DEVELOPER BE LIABLE FOR ANY LOSS OF PROFIT OR ANY OTHER COMMERCIAL DAMAGE, INCLUDING BUT NOT LIMITED TO SPECIAL, INCIDENTAL, CONSEQUENTIAL OR OTHER INDIRECT DAMAGES UNDER ANY CAUSE OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, CLAIMS ARISING FROM MALFUNCTION OR DEFECTS IN THE PRODUCTS. DEVELOPER'S MAXIMUM LIABILITY HEREUNDER IS EXPRESSLY LIMITED TO THE LESSER OF: THE AMOUNT PAID UNDER THIS AGREEMENT BY DISTRIBUTOR TO DEVELOPER WITHIN THE SIX (6) MONTH PERIOD IMMEDIATELY PRECEDING THE CAUSE GIVING RISE TO THE CLAIM; OR FIVE HUNDRED THOUSAND DOLLARS ($5OO,000).",
+        "file_name": "HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT.txt",
+        "answer": "Yes, the contract includes a cap on liability. Developer's maximum liability is limited to the lesser of the amount paid by the distributor to the developer in the six months preceding the claim or $500,000. Additionally, the contract excludes liability for loss of profit and various forms of indirect, incidental, or consequential damages."
+    },
+    {
+        "question": "Consider the Network Affiliate Agreement between National CineMedia, LLC and Digital Cinema Destinations Corp. for Advertising Services; What is the governing law for this contract?",
+        "context": "This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance  with and governed by the internal laws of the State of Delaware without giving effect to any choice of law rule that would cause the application of  the laws of any jurisdiction other than the internal laws of the State of Delaware to the rights and duties of the Parties.",
+        "file_name": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.txt",
+        "answer": "The governing law for this contract is the internal laws of the State of Delaware, excluding any choice of law rules that would apply the laws of another jurisdiction."
+    },
+    {
+        "question": "Consider the Affiliate Agreement between The TUBE Music Network, Inc. and Tribune Broadcasting Company for Broadcasting 'The TUBE' Service; What is the notice period required to terminate the renewal?",
+        "context": "If Affiliate fails to notify Network of its desire that this Agreement terminate on its expiration date, at least six (6) months before the expiration date, this Agreement will automatically renew, upon the same terms and conditions, for an additional four (4) -year period (\"Renewal Term\").",
+        "file_name": "TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.txt",
+        "answer": "The notice period required to terminate the renewal is six months. If the affiliate does not provide notice of termination at least six months before the expiration date, the agreement will automatically renew for an additional four-year period."
+    },
+    {
+        "question": "Consider the Promotion Agreement between Janssen Biotech, Inc. and Immunomedics, Inc.; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "In partial consideration of Company's Promotion of the Product in accordance with the terms of this Agreement, and subject to the terms and conditions of this Agreement, with respect to each Calendar Quarter during Calendar Year 2019 and Calendar Year 2020, Janssen shall pay Company a service fee (the \"Service Fee\"), as follows:\n\n(a) with respect to each Calendar Quarter during Calendar Year 2019, an amount equal to (i) [***] percent ([***]%) of that portion of Cumulative Net Sales that is greater than the Baseline for Calendar Year 2019, less (ii) the total Service Fees that have been invoiced by Company to Janssen for all preceding Calendar Quarters of Calendar Year 2019; and\n\n\n\n\n\n(b) with respect to each Calendar Quarter during Calendar Year 2020, an amount equal to (i) [***] percent ([***]%) of that portion of Cumulative Net Sales that is greater than the Baseline for Calendar Year 2020, less (ii) the total Service Fees that have been invoiced by Company to Janssen for all preceding Calendar Quarters of Calendar Year 2020.",
+        "file_name": "IMMUNOMEDICSINC_08_07_2019-EX-10.1-PROMOTION AGREEMENT.txt",
+        "answer": "Yes, the contract includes a revenue-sharing arrangement. Janssen will pay Immunomedics a service fee based on a percentage of Cumulative Net Sales exceeding a baseline for each calendar quarter in 2019 and 2020. The exact percentage is redacted in the provided context."
+    },
+    {
+        "question": "Consider the Transportation Agreement between ENERGY XXI GULF COAST, INC. and ENERGY XXI USA, INC.; Is there an anti-assignment clause in this contract?",
+        "context": "Shipper shall have the right to assign, or transfer all, but not less than all, of its rights and obligations under this Agreement with the prior written consent of Transporter, which consent may be withheld in Transporter's sole discretion.",
+        "file_name": "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt",
+        "answer": "Yes, the contract includes an anti-assignment clause. The shipper may assign or transfer all of its rights and obligations under the agreement only with the prior written consent of the transporter, which may be withheld at the transporter's sole discretion."
+    },
+    {
+        "question": "Consider the Product Manufacturing Agreement between Dexcel Ltd. and Kitov Pharma Ltd.; What licenses are granted under this contract?",
+        "context": "Kitov hereby grants to Dexcel a fully paid, limited license right to use all of its Confidential Information and Intellectual Property Rights (including, inter alia, the Kitov Foreground IP, Kitov Data, Kitov's share of the Joint IP, and the Trademark (\"Kitov Product IP\")) necessary in order for Dexcel to manufacture, Label, package with the Livery, test and release the Product for shipment, exclusively for Kitov, for and during the Term.",
+        "file_name": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.txt",
+        "answer": "The contract grants Dexcel a fully paid, limited license to use Kitov's Confidential Information and Intellectual Property Rights (including Kitov Foreground IP, Kitov Data, Joint IP, and Trademark) necessary to manufacture, label, package, test, and release the product exclusively for Kitov during the term of the agreement."
+    },
+    {
+        "question": "Consider the Endorsement Agreement between Andy North and Golfers Incorporated for F2 Golf Clubs; Does this contract include an exclusivity agreement?",
+        "context": "During the Term of this Agreement and within the  Contract Territory, North agrees not to enter into an agreement with another company or entity for the purpose of endorsing or promoting  products similar to the Endorsed Products.",
+        "file_name": "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.txt",
+        "answer": "Yes, the contract includes an exclusivity agreement. During the term of the agreement and within the contract territory, Andy North agrees not to endorse or promote similar products for any other company or entity."
+    },
+    {
+        "question": "Consider the Outsourcing Agreement between Tri City National Bank and Marshall & Ilsley Corporation (M&I Data Services); Are there any services to be provided after the termination of this contract?",
+        "context": "Commencing six (6) months prior to the expiration of the Term of this Agreement, or upon any termination of this Agreement for any reason, M&I shall provide Customer, at Customer's expense, all necessary assistance to allow the Services to continue without interruption or adverse affect to Customer and to facilitate the orderly transition of Services to Customer or its designee (\"Termination Assistance\").",
+        "file_name": "TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT.txt",
+        "answer": "Yes, the contract requires M&I to provide termination assistance. Starting six months before the agreement's expiration or upon termination, M&I must assist in ensuring service continuity and facilitate an orderly transition of services to the customer or its designee, at the customer’s expense."
+    },
+    {
+        "question": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+        "context": "eDiets.com will have the first right to substitute any of the following content features for any of the eight (8) content features selected above once inventory on such features becomes available.",
+        "file_name": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+        "answer": "Yes, the contract provides eDiets.com with the first right to substitute specific content features once inventory becomes available. This implies a form of preferential right to select or substitute content features."
+    },
+    {
+        "question": "Consider the Distributor Agreement between Snotarator LLC and SMSA Ballinger Acquisition Corp. for Snotarator Products in South America; Is there a minimum commitment required under this contract?",
+        "context": "*Minimum order of 1,000 Units",
+        "file_name": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT.txt",
+        "answer": "Yes, the contract requires a minimum order of 1,000 units."
+    },
+    {
+        "question": "Consider the Transition Services Agreement between Reynolds Group Holdings Inc. and Reynolds Consumer Products Inc.; Is there a cap on liability under this contract?",
+        "context": "IN NO EVENT SHALL A PARTY'S LIABILITY IN RELATION TO SERVICES PROVIDED UNDER THIS AGREEMENT EXCEED THE FEES PAID TO IT UNDER THIS AGREEMENT FOR THE SPECIFIC SERVICE THAT RESULTED IN THE LOSS.",
+        "file_name": "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt",
+        "answer": "Yes, the contract includes a cap on liability. A party’s liability is limited to the fees paid to it for the specific service that caused the loss."
+    },
+    {
+        "question": "Consider the Mobile Application Development Agreement between VGrab Asia Ltd. and Developers for Duesey Coffee App; What is the expiration date of this contract?",
+        "context": "This Agreement commences on the date it is executed and shall continue until full performance by both parties, or until earlier terminated by one party under the terms of this Agreement.",
+        "file_name": "VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.txt",
+        "answer": "The contract does not have a fixed expiration date; it continues until full performance by both parties or until earlier termination by either party as permitted under the agreement."
+    },
+    {
+        "question": "Consider the Endorsement Agreement between MOSSIMO, INC. and DAVID DUVAL ENTERPRISES, INC. for Marketing Rights; What are the insurance requirements under this contract?",
+        "context": "Company agrees to provide and maintain, at its own expense, general commercial and product liability insurance with limits no less than Three Million Dollars ($3,000,000) and naming Licensor and Duval as additional named insureds. Within thirty (30) days from the date hereof, Company will submit to Licensor evidence of such policy, requiring that the insurer shall not terminate or materially modify such without written notice to Licensor at least twenty (20) days in advance thereof.",
+        "file_name": "MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT.txt",
+        "answer": "The contract requires MOSSIMO, Inc. to provide and maintain general commercial and product liability insurance with a minimum limit of $3,000,000. This insurance must name the Licensor and David Duval as additional insureds. Evidence of this policy must be submitted within 30 days, and the insurer must notify the Licensor of any termination or material modification at least 20 days in advance."
+    },
+    {
+        "question": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; What licenses are granted under this contract?",
+        "context": "TL will hold exclusive worldwide                   rights to promote and sell the product through the following                   distribution channels: Outgoing telemarketing, General Market                   retail, and General Market catalogs, and exclusive rights                   within the United States for Television Direct response.",
+        "file_name": "IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "answer": "Time Life, Inc. holds exclusive worldwide rights to promote and sell the product through specific distribution channels, including outgoing telemarketing, General Market retail, and General Market catalogs. Additionally, Time Life has exclusive rights within the United States for Television Direct Response."
+    },
+    {
+        "question": "Consider the Development Agreement between LEO Pharma A/S and Galen (Chemicals) Limited for Combination Product; What is the governing law for this contract?",
+        "context": "THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF NEW YORK APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED ENTIRELY WITHIN SUCH STATE, WITHOUT REGARD TO THE CONFLICTS OF LAW PRINCIPLES OF SUCH STATE OTHER THAN SECTIONS 5-1401 OF THE NEW YORK GENERAL\n\n\n\n\n\nOBLIGATIONS LAW.",
+        "file_name": "WARNERCHILCOTTPLC_12_31_2003-EX-4.36-DEVELOPMENT AGREEMENT.txt",
+        "answer": "The governing law for this contract is the internal laws of the State of New York, applicable to agreements made and to be performed entirely within the state, excluding its conflicts of law principles except for Section 5-1401 of the New York General Obligations Law."
+    },
+    {
+        "question": "Consider the Sponsorship Agreement between Forty Niners SC Stadium Company LLC and Violin Memory, Inc.; Does this contract include an exclusivity agreement?",
+        "context": "Forty Niners SC acknowledges and agrees that, except as otherwise provided herein, the rights granted to Sponsor herein are exclusive to Sponsor within the Product and Services Category with respect to Forty Niners SC at the Stadium. Forty Niners SC shall not enter into a sponsorship agreement with a party with respect to the Product and Services Category, provided however, that Forty Niners SC shall be permitted to enter into a sponsorship agreement with any party that enters into a naming rights agreement with SCSA for the Stadium, provided that if SCSA enters into a naming rights agreement for the Stadium with a party that is in the Products and Services Category, Sponsor may immediately terminate this Agreement and receive a pro rated refund of any amounts paid by Sponsor for the unexpired Contract Year in which the termination occurs.",
+        "file_name": "VIOLINMEMORYINC_12_12_2012-EX-10.14-SPONSORSHIP AGREEMENT.txt",
+        "answer": "Yes, the contract includes an exclusivity agreement. Forty Niners SC grants Violin Memory exclusive rights within the Product and Services Category at the Stadium. However, if Forty Niners SC enters a naming rights agreement with a party in the same category, Violin Memory has the right to terminate the agreement and receive a pro-rated refund for the unexpired contract year."
+    },
+    {
+        "question": "Consider the Distributorship Agreement between STAAR Surgical AG and Distributor; Is there a non-compete clause in this contract?",
+        "context": "Distributor shall (a) procure the Products solely from STAAR (or its affiliates) and not (b) procure, manufacture, market or sell in the Territory any implantable medical devices that compete directly or indirectly with the Products, during the term of this Agreement.",
+        "file_name": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.txt",
+        "answer": "Yes, the contract includes a non-compete clause. The distributor is required to procure products solely from STAAR and is prohibited from procuring, manufacturing, marketing, or selling any implantable medical devices that compete directly or indirectly with STAAR's products in the territory during the term of the agreement."
+    },
+    {
+        "question": "Consider the Agency Agreement between General Electric Capital Corporation and Duckwall-Alco Stores, Inc. for Equipment Leasing; Does the licensee's affiliates have any licensing rights under this contract?",
+        "context": "with respect to any documentation, technical or confidential business information and/or software relating to the Equipment (collectively, \"Software\"), the Purchase Order will grant Lessor a license to use the Software and will allow Lessor to grant a sublicense to the Company to use such Software pursuant to the Lease and will allow Lessor to grant a sublicense to a third party after a termination or the expiration of the Lease in the event the Company does not elect to exercise any purchase option that may be provided for in the Lease;",
+        "file_name": "ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+        "answer": "Yes, the contract allows General Electric Capital Corporation (Lessor) to grant sublicenses to the Company and, if needed, to a third party after lease termination, for the use of software related to the equipment. This sublicense can be granted if Duckwall-Alco Stores does not exercise a purchase option that may be provided in the lease."
+    },
+    {
+        "question": "Consider the Endorsement Agreement between SQUARE TWO GOLF INC. and Kathy Whitworth for Women's Golf Clubs; Does this contract include any volume restrictions?",
+        "context": "The Professional agrees to serve as a professional golf instructor during up to ten (10) golf clinics hosted by the Company per calendar year at locations within the United States to be determined by the Company.",
+        "file_name": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+        "answer": "Yes, the contract includes a volume restriction specifying that Kathy Whitworth agrees to serve as a golf instructor at up to ten golf clinics per calendar year, hosted by the company within the United States."
+    },
+    {
+        "question": "Consider the Franchise Agreement between Goosehead Insurance Agency, LLC and Franchisee; What is the governing law for this contract?",
+        "context": "This Agreement will be interpreted and construed exclusively under the laws of the State of Texas, which laws will prevail in the event of any conflict of law (without regard to, and without giving effect to, the application of Texas choice-of-law rules); provided, however, that if the covenants in Section 19 of this Agreement would not be enforced as written under\n\nPage 55 of 80\n\n\n\n\n\nTexas law, then the parties agree that those covenants will instead be interpreted and construed under the laws of the state in which the Franchised Business is located.",
+        "file_name": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement.txt",
+        "answer": "The governing law for this contract is the laws of the State of Texas. However, if the covenants in Section 19 cannot be enforced as written under Texas law, they will be interpreted under the laws of the state in which the franchised business is located."
+    },
+    {
+        "question": "Consider the Distributor Agreement between VendingData Corporation and Technical Casino Supplies Ltd for Casino Products; What licenses are granted under this contract?",
+        "context": "In the event of the termination of this Agreement for any reason whatsoever, the exclusive distribution right and license granted to Distributor pursuant to this Agreement shall automatically revert to Vendor as Vendor's sole property.",
+        "file_name": "ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT.txt",
+        "answer": "The contract grants an exclusive distribution right and license to the distributor. However, upon termination of the agreement, this right and license will automatically revert to the vendor as the vendor’s sole property."
+    },
+    {
+        "question": "Consider the Affiliate Agreement between Southern Star Energy Inc. and element 5 GmbH; What is the governing law for this contract?",
+        "context": "Even in case of agreements with foreign (non-German) Software Publishers and Affiliates, the law of the Federal Republic of Germany applies.",
+        "file_name": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.txt",
+        "answer": "The governing law for this contract is the law of the Federal Republic of Germany, even for agreements with foreign (non-German) software publishers and affiliates."
+    },
+    {
+        "question": "Consider the Technology Outsourcing Agreement between Oriental Financial Group Inc. and Metavante Corporation; Is there an anti-assignment clause in this contract?",
+        "context": "Neither this Agreement nor the rights or obligations hereunder may be assigned by either party, by operation of law or otherwise, without the prior written consent of the other party, which consent shall not be unreasonably withheld, provided that (a) Metavante's consent need not be obtained in connection with the assignment of this Agreement pursuant to a merger in which Customer is a party and as a result of which the surviving Entity becomes an Affiliate or Subsidiary of another bank holding company, bank, savings and loan association or other financial institution, so long as the provisions of all applicable Schedules are complied with; and (b) Metavante may freely assign this Agreement so long as it is (i) in connection with a merger, corporate reorganization, or sale of all or substantially all of its assets, stock, or securities, or (ii) to any Entity which is a successor to the assets or the business of Metavante.",
+        "file_name": "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.txt",
+        "answer": "Yes, the contract includes an anti-assignment clause. Neither party may assign the agreement or its rights or obligations without the prior written consent of the other party, except under specific conditions, such as mergers or reorganization. Metavante may freely assign the agreement in connection with a merger, corporate reorganization, or sale of its assets or business."
+    },
+    {
+        "question": "Consider the Intellectual Property Agreement between WestRock Company and Ingevity Corporation; Are the licenses granted under this contract non-transferable?",
+        "context": "If Parent enters an agreement to transfer the license granted to it under this Section 3.1 in connection with any sale or transfer of a Parent business, then SpinCo and members of the SpinCo Group shall be made third party beneficiaries under such transfer agreement to enforce breaches of the license.   3",
+        "file_name": "INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT.txt",
+        "answer":"No, the licenses granted under this contract are transferable. The context mentions that the license can be transferred in connection with a sale or transfer of a Parent business, and SpinCo and its group members would be third-party beneficiaries to enforce breaches of the license."
+    },
+    {
+        "question": "Consider the Wireless Content License Agreement between Twentieth Century Fox Licensing & Merchandising and Sorrent, Inc.; Does this contract include any revenue or profit-sharing arrangements?",
+        "context": "Payments from Licensee to Fox: In consideration of the rights granted to Licensee pursuant to this Agreement, Licensee shall pay to Fox, or such other party as Fox may designate in writing, a royalty in the following amounts:\n\n(i) Major Releases:\n\n(A) Until such time as ***** percent (*****%) of an Individual Property Guarantee for a Major Release is recouped by Licensee, Fox shall earn, and credit against the Individual Property Guarantees, Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Major Release; and\n\n(B) Thereafter and until such time as ***** percent (*****%) of an Individual Property Guarantee for a Major Release is recouped by Licensee, Fox shall earn and Licensee shall pay to Fox Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Major Release; and\n\n(C) Thereafter (and for the remainder of the Term), Fox shall earn and Licensee shall pay to Fox Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Major Release.",
+        "file_name": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.txt",
+        "answer": "Yes, the contract includes revenue-sharing arrangements. Sorrent, Inc. is required to pay royalties to Twentieth Century Fox based on a percentage of Sorrent's gross receipts from the sale, license, distribution, or other exploitation of wireless products derived from major releases. The royalty rate and payment structure vary depending on whether certain financial thresholds (Individual Property Guarantees) have been recouped by Sorrent."
+    }
+]

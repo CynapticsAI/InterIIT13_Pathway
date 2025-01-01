@@ -1,0 +1,66 @@
+$sources:
+  - !pw.io.fs.read
+    path: files-for-indexing
+    format: binary
+    with_metadata: true
+
+  # - !pw.xpacks.connectors.sharepoint.read 
+  #   url: $SHAREPOINT_URL
+  #   tenant: $SHAREPOINT_TENANT
+  #   client_id: $SHAREPOINT_CLIENT_ID
+  #   cert_path: sharepointcert.pem
+  #   thumbprint: $SHAREPOINT_THUMBPRINT
+  #   root_path: $SHAREPOINT_ROOT
+  #   with_metadata: true
+  #   refresh_interval: 30
+
+  # - !pw.io.gdrive.read
+  #   object_id: $DRIVE_ID
+  #   service_user_credentials_file: gdrive_indexer.json
+  #   name_pattern:
+  #     - "*.pdf"
+  #     - "*.pptx"
+  #   object_size_limit: null
+  #   with_metadata: true
+  #   refresh_interval: 30
+
+$embedder: !pw.xpacks.llm.embedders.SentenceTransformerEmbedder
+  model: "BAAI/bge-small-en-v1.5"
+
+$dimensions: 384
+
+$splitter: !pw.xpacks.llm.splitters.TokenCountSplitter
+  max_tokens: 200
+
+# $parser: !pw.xpacks.llm.parsers.ParseUnstructured
+
+$bm25_factory: !pw.stdlib.indexing.TantivyBM25Factory
+  ram_budget: 52428800
+  in_memory_index: True
+
+$knn_factory: !pw.stdlib.indexing.BruteForceKnnFactory
+  dimensions: $dimensions
+  embedder: $embedder
+  metric: !pw.stdlib.indexing.BruteForceKnnMetricKind.COS
+
+$retriever_factory: !pw.stdlib.indexing.HybridIndexFactory
+  retriever_factories: [$bm25_factory, $knn_factory]
+  k: 60
+
+document_store: !pw.xpacks.llm.document_store.DocumentStore
+  docs: $sources
+  # parser: $parser
+  splitter: $splitter
+  retriever_factory: $retriever_factory
+  
+
+# Change host and port by uncommenting these lines
+# host: "0.0.0.0"
+# port: 8000
+
+# Cache configuration
+# with_cache: true
+
+# If `terminate_on_error` is true then the program will terminate whenever any error is encountered.
+# Defaults to false, uncomment the following line if you want to set it to true
+# terminate_on_error: true
