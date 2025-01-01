@@ -1,0 +1,14 @@
+spacy # pip install -U spacy needed
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+accelerate
+torch
+transformers==4.46.3
+sentencepiece
+pathway # pip install -U pathway needed
+pathway[xpack-llm-docs]
+pathway[xpack-llm-local]
+pathway[xpack-llm]
+python-dotenv==1.0.1
+groq
+nltk
+numpy==1.24

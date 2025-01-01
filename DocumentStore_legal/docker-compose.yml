@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  pathway_vector_indexer:
+    build:
+      context: .
+    ports:
+      - "8001:8001"
+    volumes:
+      - "./files-for-indexing:/app/files-for-indexing"
