@@ -49,7 +49,7 @@ Pipelines:
 
 ## Installation
 
-**Step 0**: Create a Python virtual environment and install dependencies.  
+#### Step 0: Create a Python virtual environment and install dependencies.  
 
 1. Create a virtual environment:  
 
