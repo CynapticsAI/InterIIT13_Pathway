@@ -5,8 +5,8 @@ This repository offers resources for conducting inference and assessment of stat
 
 Pipelines:
 - HybridFL- specialized pipeline for legal and financial domains.
-- FLARE- Generalized active retrieval pipeline using closed source models
-- DRAGIN- Generalized active retrieval pipeline using open source models
+- FLARE- Generalized active retrieval pipeline using closed source models.
+- DRAGIN- Generalized active retrieval pipeline using open source models.
 
 
 
